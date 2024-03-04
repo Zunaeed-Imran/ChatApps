@@ -9,7 +9,7 @@
 }
 .container {
   max-width: 955px;
-  background-color: rgb(67, 102, 102);
+  background-color: rgb(67, 201, 201);
   margin: auto;
   height: 70vh;
   border: 3px solid rgba(255, 255, 255, 0.915);
@@ -19,7 +19,7 @@
   overflow-y: auto;
 }
 .message {
-  background-color: rgb(145, 119, 169);
+  background-color: rgb(133, 80, 182);
   width: 40%;
   border: 2px solid;
   border-radius: 10px;
@@ -46,7 +46,7 @@
 .messageInp {
   height: 50px;
   width: 90%;
-  border: 2px solid black;
+  border: 2px solid rgb(37, 31, 31);
   border-radius: 5px;
   margin-top: 5px;
 }
